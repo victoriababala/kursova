@@ -1,0 +1,45 @@
+D:\Education\2 course\kursova\MoonFood\MoonFood.DataAccess\bin\Debug\net7.0\MoonFood.DataAccess.deps.json
+D:\Education\2 course\kursova\MoonFood\MoonFood.DataAccess\bin\Debug\net7.0\MoonFood.DataAccess.dll
+D:\Education\2 course\kursova\MoonFood\MoonFood.DataAccess\bin\Debug\net7.0\MoonFood.DataAccess.pdb
+D:\Education\2 course\kursova\MoonFood\MoonFood.DataAccess\bin\Debug\net7.0\MoonFood.Models.dll
+D:\Education\2 course\kursova\MoonFood\MoonFood.DataAccess\bin\Debug\net7.0\MoonFood.Models.pdb
+D:\Education\2 course\kursova\MoonFood\MoonFood.DataAccess\obj\Debug\net7.0\MoonFood.DataAccess.csproj.AssemblyReference.cache
+D:\Education\2 course\kursova\MoonFood\MoonFood.DataAccess\obj\Debug\net7.0\MoonFood.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\Education\2 course\kursova\MoonFood\MoonFood.DataAccess\obj\Debug\net7.0\MoonFood.DataAccess.AssemblyInfoInputs.cache
+D:\Education\2 course\kursova\MoonFood\MoonFood.DataAccess\obj\Debug\net7.0\MoonFood.DataAccess.AssemblyInfo.cs
+D:\Education\2 course\kursova\MoonFood\MoonFood.DataAccess\obj\Debug\net7.0\MoonFood.DataAccess.csproj.CoreCompileInputs.cache
+D:\Education\2 course\kursova\MoonFood\MoonFood.DataAccess\obj\Debug\net7.0\MoonFood.DataAccess.csproj.CopyComplete
+D:\Education\2 course\kursova\MoonFood\MoonFood.DataAccess\obj\Debug\net7.0\MoonFood.DataAccess.dll
+D:\Education\2 course\kursova\MoonFood\MoonFood.DataAccess\obj\Debug\net7.0\refint\MoonFood.DataAccess.dll
+D:\Education\2 course\kursova\MoonFood\MoonFood.DataAccess\obj\Debug\net7.0\MoonFood.DataAccess.pdb
+D:\Education\2 course\kursova\MoonFood\MoonFood.DataAccess\obj\Debug\net7.0\ref\MoonFood.DataAccess.dll
+C:\Users\Andrii Berchak\Desktop\MoonFood\MoonFood.DataAccess\bin\Debug\net7.0\MoonFood.DataAccess.deps.json
+C:\Users\Andrii Berchak\Desktop\MoonFood\MoonFood.DataAccess\bin\Debug\net7.0\MoonFood.DataAccess.dll
+C:\Users\Andrii Berchak\Desktop\MoonFood\MoonFood.DataAccess\bin\Debug\net7.0\MoonFood.DataAccess.pdb
+C:\Users\Andrii Berchak\Desktop\MoonFood\MoonFood.DataAccess\bin\Debug\net7.0\MoonFood.Models.dll
+C:\Users\Andrii Berchak\Desktop\MoonFood\MoonFood.DataAccess\bin\Debug\net7.0\MoonFood.Models.pdb
+C:\Users\Andrii Berchak\Desktop\MoonFood\MoonFood.DataAccess\obj\Debug\net7.0\MoonFood.DataAccess.csproj.AssemblyReference.cache
+C:\Users\Andrii Berchak\Desktop\MoonFood\MoonFood.DataAccess\obj\Debug\net7.0\MoonFood.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andrii Berchak\Desktop\MoonFood\MoonFood.DataAccess\obj\Debug\net7.0\MoonFood.DataAccess.AssemblyInfoInputs.cache
+C:\Users\Andrii Berchak\Desktop\MoonFood\MoonFood.DataAccess\obj\Debug\net7.0\MoonFood.DataAccess.AssemblyInfo.cs
+C:\Users\Andrii Berchak\Desktop\MoonFood\MoonFood.DataAccess\obj\Debug\net7.0\MoonFood.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Andrii Berchak\Desktop\MoonFood\MoonFood.DataAccess\obj\Debug\net7.0\MoonFood.DataAccess.csproj.CopyComplete
+C:\Users\Andrii Berchak\Desktop\MoonFood\MoonFood.DataAccess\obj\Debug\net7.0\MoonFood.DataAccess.dll
+C:\Users\Andrii Berchak\Desktop\MoonFood\MoonFood.DataAccess\obj\Debug\net7.0\refint\MoonFood.DataAccess.dll
+C:\Users\Andrii Berchak\Desktop\MoonFood\MoonFood.DataAccess\obj\Debug\net7.0\MoonFood.DataAccess.pdb
+C:\Users\Andrii Berchak\Desktop\MoonFood\MoonFood.DataAccess\obj\Debug\net7.0\ref\MoonFood.DataAccess.dll
+C:\Users\Admin\Desktop\MoonFood\MoonFood\MoonFood\MoonFood.DataAccess\bin\Debug\net7.0\MoonFood.DataAccess.deps.json
+C:\Users\Admin\Desktop\MoonFood\MoonFood\MoonFood\MoonFood.DataAccess\bin\Debug\net7.0\MoonFood.DataAccess.dll
+C:\Users\Admin\Desktop\MoonFood\MoonFood\MoonFood\MoonFood.DataAccess\bin\Debug\net7.0\MoonFood.DataAccess.pdb
+C:\Users\Admin\Desktop\MoonFood\MoonFood\MoonFood\MoonFood.DataAccess\bin\Debug\net7.0\MoonFood.Models.dll
+C:\Users\Admin\Desktop\MoonFood\MoonFood\MoonFood\MoonFood.DataAccess\bin\Debug\net7.0\MoonFood.Models.pdb
+C:\Users\Admin\Desktop\MoonFood\MoonFood\MoonFood\MoonFood.DataAccess\obj\Debug\net7.0\MoonFood.DataAccess.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\MoonFood\MoonFood\MoonFood\MoonFood.DataAccess\obj\Debug\net7.0\MoonFood.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\MoonFood\MoonFood\MoonFood\MoonFood.DataAccess\obj\Debug\net7.0\MoonFood.DataAccess.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\MoonFood\MoonFood\MoonFood\MoonFood.DataAccess\obj\Debug\net7.0\MoonFood.DataAccess.AssemblyInfo.cs
+C:\Users\Admin\Desktop\MoonFood\MoonFood\MoonFood\MoonFood.DataAccess\obj\Debug\net7.0\MoonFood.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\MoonFood\MoonFood\MoonFood\MoonFood.DataAccess\obj\Debug\net7.0\MoonFood.DataAccess.csproj.CopyComplete
+C:\Users\Admin\Desktop\MoonFood\MoonFood\MoonFood\MoonFood.DataAccess\obj\Debug\net7.0\MoonFood.DataAccess.dll
+C:\Users\Admin\Desktop\MoonFood\MoonFood\MoonFood\MoonFood.DataAccess\obj\Debug\net7.0\refint\MoonFood.DataAccess.dll
+C:\Users\Admin\Desktop\MoonFood\MoonFood\MoonFood\MoonFood.DataAccess\obj\Debug\net7.0\MoonFood.DataAccess.pdb
+C:\Users\Admin\Desktop\MoonFood\MoonFood\MoonFood\MoonFood.DataAccess\obj\Debug\net7.0\ref\MoonFood.DataAccess.dll
