@@ -1,0 +1,1197 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MoonFood\\MoonFood\\MoonFood\\MoonFood\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\MoonFood.bundle.scp.css",
+      "PackagePath": "staticwebassets\\MoonFood.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MoonFood\\MoonFood\\MoonFood\\MoonFood\\wwwroot\\css\\.DS_Store",
+      "PackagePath": "staticwebassets\\css\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MoonFood\\MoonFood\\MoonFood\\MoonFood\\wwwroot\\css\\ajax-loader.gif",
+      "PackagePath": "staticwebassets\\css\\ajax-loader.gif"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MoonFood\\MoonFood\\MoonFood\\MoonFood\\wwwroot\\css\\animate.css",
+      "PackagePath": "staticwebassets\\css\\animate.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MoonFood\\MoonFood\\MoonFood\\MoonFood\\wwwroot\\css\\aos.css",
+      "PackagePath": "staticwebassets\\css\\aos.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MoonFood\\MoonFood\\MoonFood\\MoonFood\\wwwroot\\css\\bootstrap-datepicker.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-datepicker.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MoonFood\\MoonFood\\MoonFood\\MoonFood\\wwwroot\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MoonFood\\MoonFood\\MoonFood\\MoonFood\\wwwroot\\css\\bootstrap\\.DS_Store",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MoonFood\\MoonFood\\MoonFood\\MoonFood\\wwwroot\\css\\bootstrap\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MoonFood\\MoonFood\\MoonFood\\MoonFood\\wwwroot\\css\\bootstrap\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MoonFood\\MoonFood\\MoonFood\\MoonFood\\wwwroot\\css\\bootswatchTheme.css",
+      "PackagePath": "staticwebassets\\css\\bootswatchTheme.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MoonFood\\MoonFood\\MoonFood\\MoonFood\\wwwroot\\css\\css\\.DS_Store",
+      "PackagePath": "staticwebassets\\css\\css\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MoonFood\\MoonFood\\MoonFood\\MoonFood\\wwwroot\\css\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\css\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MoonFood\\MoonFood\\MoonFood\\MoonFood\\wwwroot\\css\\css\\mixins\\_text-hide.css",
+      "PackagePath": "staticwebassets\\css\\css\\mixins\\_text-hide.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MoonFood\\MoonFood\\MoonFood\\MoonFood\\wwwroot\\css\\flaticon.css",
+      "PackagePath": "staticwebassets\\css\\flaticon.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MoonFood\\MoonFood\\MoonFood\\MoonFood\\wwwroot\\css\\fonts\\.DS_Store",
+      "PackagePath": "staticwebassets\\css\\fonts\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MoonFood\\MoonFood\\MoonFood\\MoonFood\\wwwroot\\css\\fonts\\flaticon\\.DS_Store",
+      "PackagePath": "staticwebassets\\css\\fonts\\flaticon\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MoonFood\\MoonFood\\MoonFood\\MoonFood\\wwwroot\\css\\fonts\\flaticon\\backup.txt",
+      "PackagePath": "staticwebassets\\css\\fonts\\flaticon\\backup.txt"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MoonFood\\MoonFood\\MoonFood\\MoonFood\\wwwroot\\css\\fonts\\flaticon\\font\\Flaticon.eot",
+      "PackagePath": "staticwebassets\\css\\fonts\\flaticon\\font\\Flaticon.eot"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MoonFood\\MoonFood\\MoonFood\\MoonFood\\wwwroot\\css\\fonts\\flaticon\\font\\Flaticon.svg",
+      "PackagePath": "staticwebassets\\css\\fonts\\flaticon\\font\\Flaticon.svg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MoonFood\\MoonFood\\MoonFood\\MoonFood\\wwwroot\\css\\fonts\\flaticon\\font\\Flaticon.ttf",
+      "PackagePath": "staticwebassets\\css\\fonts\\flaticon\\font\\Flaticon.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MoonFood\\MoonFood\\MoonFood\\MoonFood\\wwwroot\\css\\fonts\\flaticon\\font\\Flaticon.woff",
+      "PackagePath": "staticwebassets\\css\\fonts\\flaticon\\font\\Flaticon.woff"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MoonFood\\MoonFood\\MoonFood\\MoonFood\\wwwroot\\css\\fonts\\flaticon\\font\\_flaticon.scss",
+      "PackagePath": "staticwebassets\\css\\fonts\\flaticon\\font\\_flaticon.scss"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MoonFood\\MoonFood\\MoonFood\\MoonFood\\wwwroot\\css\\fonts\\flaticon\\font\\flaticon.css",
+      "PackagePath": "staticwebassets\\css\\fonts\\flaticon\\font\\flaticon.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MoonFood\\MoonFood\\MoonFood\\MoonFood\\wwwroot\\css\\fonts\\flaticon\\font\\flaticon.html",
+      "PackagePath": "staticwebassets\\css\\fonts\\flaticon\\font\\flaticon.html"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MoonFood\\MoonFood\\MoonFood\\MoonFood\\wwwroot\\css\\fonts\\flaticon\\license\\license.pdf",
+      "PackagePath": "staticwebassets\\css\\fonts\\flaticon\\license\\license.pdf"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MoonFood\\MoonFood\\MoonFood\\MoonFood\\wwwroot\\css\\fonts\\icomoon\\.DS_Store",
+      "PackagePath": "staticwebassets\\css\\fonts\\icomoon\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MoonFood\\MoonFood\\MoonFood\\MoonFood\\wwwroot\\css\\fonts\\icomoon\\icomoon.eot",
+      "PackagePath": "staticwebassets\\css\\fonts\\icomoon\\icomoon.eot"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MoonFood\\MoonFood\\MoonFood\\MoonFood\\wwwroot\\css\\fonts\\icomoon\\icomoon.svg",
+      "PackagePath": "staticwebassets\\css\\fonts\\icomoon\\icomoon.svg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MoonFood\\MoonFood\\MoonFood\\MoonFood\\wwwroot\\css\\fonts\\icomoon\\icomoon.ttf",
+      "PackagePath": "staticwebassets\\css\\fonts\\icomoon\\icomoon.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MoonFood\\MoonFood\\MoonFood\\MoonFood\\wwwroot\\css\\fonts\\icomoon\\icomoon.woff",
+      "PackagePath": "staticwebassets\\css\\fonts\\icomoon\\icomoon.woff"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MoonFood\\MoonFood\\MoonFood\\MoonFood\\wwwroot\\css\\fonts\\ionicons\\css\\_ionicons.scss",
+      "PackagePath": "staticwebassets\\css\\fonts\\ionicons\\css\\_ionicons.scss"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MoonFood\\MoonFood\\MoonFood\\MoonFood\\wwwroot\\css\\fonts\\ionicons\\css\\ionicons.min.css",
+      "PackagePath": "staticwebassets\\css\\fonts\\ionicons\\css\\ionicons.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MoonFood\\MoonFood\\MoonFood\\MoonFood\\wwwroot\\css\\fonts\\ionicons\\fonts\\.DS_Store",
+      "PackagePath": "staticwebassets\\css\\fonts\\ionicons\\fonts\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MoonFood\\MoonFood\\MoonFood\\MoonFood\\wwwroot\\css\\fonts\\ionicons\\fonts\\ionicons.eot",
+      "PackagePath": "staticwebassets\\css\\fonts\\ionicons\\fonts\\ionicons.eot"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MoonFood\\MoonFood\\MoonFood\\MoonFood\\wwwroot\\css\\fonts\\ionicons\\fonts\\ionicons.svg",
+      "PackagePath": "staticwebassets\\css\\fonts\\ionicons\\fonts\\ionicons.svg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MoonFood\\MoonFood\\MoonFood\\MoonFood\\wwwroot\\css\\fonts\\ionicons\\fonts\\ionicons.ttf",
+      "PackagePath": "staticwebassets\\css\\fonts\\ionicons\\fonts\\ionicons.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MoonFood\\MoonFood\\MoonFood\\MoonFood\\wwwroot\\css\\fonts\\ionicons\\fonts\\ionicons.woff",
+      "PackagePath": "staticwebassets\\css\\fonts\\ionicons\\fonts\\ionicons.woff"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MoonFood\\MoonFood\\MoonFood\\MoonFood\\wwwroot\\css\\fonts\\ionicons\\fonts\\ionicons.woff2",
+      "PackagePath": "staticwebassets\\css\\fonts\\ionicons\\fonts\\ionicons.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MoonFood\\MoonFood\\MoonFood\\MoonFood\\wwwroot\\css\\fonts\\open-iconic\\open-iconic.eot",
+      "PackagePath": "staticwebassets\\css\\fonts\\open-iconic\\open-iconic.eot"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MoonFood\\MoonFood\\MoonFood\\MoonFood\\wwwroot\\css\\fonts\\open-iconic\\open-iconic.otf",
+      "PackagePath": "staticwebassets\\css\\fonts\\open-iconic\\open-iconic.otf"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MoonFood\\MoonFood\\MoonFood\\MoonFood\\wwwroot\\css\\fonts\\open-iconic\\open-iconic.svg",
+      "PackagePath": "staticwebassets\\css\\fonts\\open-iconic\\open-iconic.svg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MoonFood\\MoonFood\\MoonFood\\MoonFood\\wwwroot\\css\\fonts\\open-iconic\\open-iconic.ttf",
+      "PackagePath": "staticwebassets\\css\\fonts\\open-iconic\\open-iconic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MoonFood\\MoonFood\\MoonFood\\MoonFood\\wwwroot\\css\\fonts\\open-iconic\\open-iconic.woff",
+      "PackagePath": "staticwebassets\\css\\fonts\\open-iconic\\open-iconic.woff"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MoonFood\\MoonFood\\MoonFood\\MoonFood\\wwwroot\\css\\icomoon.css",
+      "PackagePath": "staticwebassets\\css\\icomoon.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MoonFood\\MoonFood\\MoonFood\\MoonFood\\wwwroot\\css\\ionicons.min.css",
+      "PackagePath": "staticwebassets\\css\\ionicons.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MoonFood\\MoonFood\\MoonFood\\MoonFood\\wwwroot\\css\\jquery.timepicker.css",
+      "PackagePath": "staticwebassets\\css\\jquery.timepicker.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MoonFood\\MoonFood\\MoonFood\\MoonFood\\wwwroot\\css\\magnific-popup.css",
+      "PackagePath": "staticwebassets\\css\\magnific-popup.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MoonFood\\MoonFood\\MoonFood\\MoonFood\\wwwroot\\css\\open-iconic-bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\open-iconic-bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MoonFood\\MoonFood\\MoonFood\\MoonFood\\wwwroot\\css\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\css\\owl.carousel.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MoonFood\\MoonFood\\MoonFood\\MoonFood\\wwwroot\\css\\owl.theme.default.min.css",
+      "PackagePath": "staticwebassets\\css\\owl.theme.default.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MoonFood\\MoonFood\\MoonFood\\MoonFood\\wwwroot\\css\\scss\\.DS_Store",
+      "PackagePath": "staticwebassets\\css\\scss\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MoonFood\\MoonFood\\MoonFood\\MoonFood\\wwwroot\\css\\scss\\bootstrap\\_alert.scss",
+      "PackagePath": "staticwebassets\\css\\scss\\bootstrap\\_alert.scss"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MoonFood\\MoonFood\\MoonFood\\MoonFood\\wwwroot\\css\\scss\\bootstrap\\_badge.scss",
+      "PackagePath": "staticwebassets\\css\\scss\\bootstrap\\_badge.scss"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MoonFood\\MoonFood\\MoonFood\\MoonFood\\wwwroot\\css\\scss\\bootstrap\\_breadcrumb.scss",
+      "PackagePath": "staticwebassets\\css\\scss\\bootstrap\\_breadcrumb.scss"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MoonFood\\MoonFood\\MoonFood\\MoonFood\\wwwroot\\css\\scss\\bootstrap\\_button-group.scss",
+      "PackagePath": "staticwebassets\\css\\scss\\bootstrap\\_button-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MoonFood\\MoonFood\\MoonFood\\MoonFood\\wwwroot\\css\\scss\\bootstrap\\_buttons.scss",
+      "PackagePath": "staticwebassets\\css\\scss\\bootstrap\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MoonFood\\MoonFood\\MoonFood\\MoonFood\\wwwroot\\css\\scss\\bootstrap\\_card.scss",
+      "PackagePath": "staticwebassets\\css\\scss\\bootstrap\\_card.scss"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MoonFood\\MoonFood\\MoonFood\\MoonFood\\wwwroot\\css\\scss\\bootstrap\\_carousel.scss",
+      "PackagePath": "staticwebassets\\css\\scss\\bootstrap\\_carousel.scss"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MoonFood\\MoonFood\\MoonFood\\MoonFood\\wwwroot\\css\\scss\\bootstrap\\_close.scss",
+      "PackagePath": "staticwebassets\\css\\scss\\bootstrap\\_close.scss"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MoonFood\\MoonFood\\MoonFood\\MoonFood\\wwwroot\\css\\scss\\bootstrap\\_code.scss",
+      "PackagePath": "staticwebassets\\css\\scss\\bootstrap\\_code.scss"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MoonFood\\MoonFood\\MoonFood\\MoonFood\\wwwroot\\css\\scss\\bootstrap\\_custom-forms.scss",
+      "PackagePath": "staticwebassets\\css\\scss\\bootstrap\\_custom-forms.scss"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MoonFood\\MoonFood\\MoonFood\\MoonFood\\wwwroot\\css\\scss\\bootstrap\\_dropdown.scss",
+      "PackagePath": "staticwebassets\\css\\scss\\bootstrap\\_dropdown.scss"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MoonFood\\MoonFood\\MoonFood\\MoonFood\\wwwroot\\css\\scss\\bootstrap\\_forms.scss",
+      "PackagePath": "staticwebassets\\css\\scss\\bootstrap\\_forms.scss"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MoonFood\\MoonFood\\MoonFood\\MoonFood\\wwwroot\\css\\scss\\bootstrap\\_functions.scss",
+      "PackagePath": "staticwebassets\\css\\scss\\bootstrap\\_functions.scss"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MoonFood\\MoonFood\\MoonFood\\MoonFood\\wwwroot\\css\\scss\\bootstrap\\_grid.scss",
+      "PackagePath": "staticwebassets\\css\\scss\\bootstrap\\_grid.scss"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MoonFood\\MoonFood\\MoonFood\\MoonFood\\wwwroot\\css\\scss\\bootstrap\\_images.scss",
+      "PackagePath": "staticwebassets\\css\\scss\\bootstrap\\_images.scss"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MoonFood\\MoonFood\\MoonFood\\MoonFood\\wwwroot\\css\\scss\\bootstrap\\_input-group.scss",
+      "PackagePath": "staticwebassets\\css\\scss\\bootstrap\\_input-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MoonFood\\MoonFood\\MoonFood\\MoonFood\\wwwroot\\css\\scss\\bootstrap\\_jumbotron.scss",
+      "PackagePath": "staticwebassets\\css\\scss\\bootstrap\\_jumbotron.scss"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MoonFood\\MoonFood\\MoonFood\\MoonFood\\wwwroot\\css\\scss\\bootstrap\\_list-group.scss",
+      "PackagePath": "staticwebassets\\css\\scss\\bootstrap\\_list-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MoonFood\\MoonFood\\MoonFood\\MoonFood\\wwwroot\\css\\scss\\bootstrap\\_media.scss",
+      "PackagePath": "staticwebassets\\css\\scss\\bootstrap\\_media.scss"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MoonFood\\MoonFood\\MoonFood\\MoonFood\\wwwroot\\css\\scss\\bootstrap\\_mixins.scss",
+      "PackagePath": "staticwebassets\\css\\scss\\bootstrap\\_mixins.scss"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MoonFood\\MoonFood\\MoonFood\\MoonFood\\wwwroot\\css\\scss\\bootstrap\\_modal.scss",
+      "PackagePath": "staticwebassets\\css\\scss\\bootstrap\\_modal.scss"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MoonFood\\MoonFood\\MoonFood\\MoonFood\\wwwroot\\css\\scss\\bootstrap\\_nav.scss",
+      "PackagePath": "staticwebassets\\css\\scss\\bootstrap\\_nav.scss"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MoonFood\\MoonFood\\MoonFood\\MoonFood\\wwwroot\\css\\scss\\bootstrap\\_navbar.scss",
+      "PackagePath": "staticwebassets\\css\\scss\\bootstrap\\_navbar.scss"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MoonFood\\MoonFood\\MoonFood\\MoonFood\\wwwroot\\css\\scss\\bootstrap\\_pagination.scss",
+      "PackagePath": "staticwebassets\\css\\scss\\bootstrap\\_pagination.scss"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MoonFood\\MoonFood\\MoonFood\\MoonFood\\wwwroot\\css\\scss\\bootstrap\\_popover.scss",
+      "PackagePath": "staticwebassets\\css\\scss\\bootstrap\\_popover.scss"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MoonFood\\MoonFood\\MoonFood\\MoonFood\\wwwroot\\css\\scss\\bootstrap\\_print.scss",
+      "PackagePath": "staticwebassets\\css\\scss\\bootstrap\\_print.scss"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MoonFood\\MoonFood\\MoonFood\\MoonFood\\wwwroot\\css\\scss\\bootstrap\\_progress.scss",
+      "PackagePath": "staticwebassets\\css\\scss\\bootstrap\\_progress.scss"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MoonFood\\MoonFood\\MoonFood\\MoonFood\\wwwroot\\css\\scss\\bootstrap\\_reboot.scss",
+      "PackagePath": "staticwebassets\\css\\scss\\bootstrap\\_reboot.scss"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MoonFood\\MoonFood\\MoonFood\\MoonFood\\wwwroot\\css\\scss\\bootstrap\\_root.scss",
+      "PackagePath": "staticwebassets\\css\\scss\\bootstrap\\_root.scss"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MoonFood\\MoonFood\\MoonFood\\MoonFood\\wwwroot\\css\\scss\\bootstrap\\_tables.scss",
+      "PackagePath": "staticwebassets\\css\\scss\\bootstrap\\_tables.scss"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MoonFood\\MoonFood\\MoonFood\\MoonFood\\wwwroot\\css\\scss\\bootstrap\\_tooltip.scss",
+      "PackagePath": "staticwebassets\\css\\scss\\bootstrap\\_tooltip.scss"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MoonFood\\MoonFood\\MoonFood\\MoonFood\\wwwroot\\css\\scss\\bootstrap\\_transitions.scss",
+      "PackagePath": "staticwebassets\\css\\scss\\bootstrap\\_transitions.scss"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MoonFood\\MoonFood\\MoonFood\\MoonFood\\wwwroot\\css\\scss\\bootstrap\\_type.scss",
+      "PackagePath": "staticwebassets\\css\\scss\\bootstrap\\_type.scss"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MoonFood\\MoonFood\\MoonFood\\MoonFood\\wwwroot\\css\\scss\\bootstrap\\_utilities.scss",
+      "PackagePath": "staticwebassets\\css\\scss\\bootstrap\\_utilities.scss"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MoonFood\\MoonFood\\MoonFood\\MoonFood\\wwwroot\\css\\scss\\bootstrap\\_variables.scss",
+      "PackagePath": "staticwebassets\\css\\scss\\bootstrap\\_variables.scss"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MoonFood\\MoonFood\\MoonFood\\MoonFood\\wwwroot\\css\\scss\\bootstrap\\bootstrap-grid.scss",
+      "PackagePath": "staticwebassets\\css\\scss\\bootstrap\\bootstrap-grid.scss"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MoonFood\\MoonFood\\MoonFood\\MoonFood\\wwwroot\\css\\scss\\bootstrap\\bootstrap-reboot.scss",
+      "PackagePath": "staticwebassets\\css\\scss\\bootstrap\\bootstrap-reboot.scss"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MoonFood\\MoonFood\\MoonFood\\MoonFood\\wwwroot\\css\\scss\\bootstrap\\bootstrap.scss",
+      "PackagePath": "staticwebassets\\css\\scss\\bootstrap\\bootstrap.scss"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MoonFood\\MoonFood\\MoonFood\\MoonFood\\wwwroot\\css\\scss\\bootstrap\\mixins\\_alert.scss",
+      "PackagePath": "staticwebassets\\css\\scss\\bootstrap\\mixins\\_alert.scss"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MoonFood\\MoonFood\\MoonFood\\MoonFood\\wwwroot\\css\\scss\\bootstrap\\mixins\\_background-variant.scss",
+      "PackagePath": "staticwebassets\\css\\scss\\bootstrap\\mixins\\_background-variant.scss"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MoonFood\\MoonFood\\MoonFood\\MoonFood\\wwwroot\\css\\scss\\bootstrap\\mixins\\_badge.scss",
+      "PackagePath": "staticwebassets\\css\\scss\\bootstrap\\mixins\\_badge.scss"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MoonFood\\MoonFood\\MoonFood\\MoonFood\\wwwroot\\css\\scss\\bootstrap\\mixins\\_border-radius.scss",
+      "PackagePath": "staticwebassets\\css\\scss\\bootstrap\\mixins\\_border-radius.scss"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MoonFood\\MoonFood\\MoonFood\\MoonFood\\wwwroot\\css\\scss\\bootstrap\\mixins\\_box-shadow.scss",
+      "PackagePath": "staticwebassets\\css\\scss\\bootstrap\\mixins\\_box-shadow.scss"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MoonFood\\MoonFood\\MoonFood\\MoonFood\\wwwroot\\css\\scss\\bootstrap\\mixins\\_breakpoints.scss",
+      "PackagePath": "staticwebassets\\css\\scss\\bootstrap\\mixins\\_breakpoints.scss"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MoonFood\\MoonFood\\MoonFood\\MoonFood\\wwwroot\\css\\scss\\bootstrap\\mixins\\_buttons.scss",
+      "PackagePath": "staticwebassets\\css\\scss\\bootstrap\\mixins\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MoonFood\\MoonFood\\MoonFood\\MoonFood\\wwwroot\\css\\scss\\bootstrap\\mixins\\_caret.scss",
+      "PackagePath": "staticwebassets\\css\\scss\\bootstrap\\mixins\\_caret.scss"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MoonFood\\MoonFood\\MoonFood\\MoonFood\\wwwroot\\css\\scss\\bootstrap\\mixins\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\css\\scss\\bootstrap\\mixins\\_clearfix.scss"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MoonFood\\MoonFood\\MoonFood\\MoonFood\\wwwroot\\css\\scss\\bootstrap\\mixins\\_float.scss",
+      "PackagePath": "staticwebassets\\css\\scss\\bootstrap\\mixins\\_float.scss"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MoonFood\\MoonFood\\MoonFood\\MoonFood\\wwwroot\\css\\scss\\bootstrap\\mixins\\_forms.scss",
+      "PackagePath": "staticwebassets\\css\\scss\\bootstrap\\mixins\\_forms.scss"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MoonFood\\MoonFood\\MoonFood\\MoonFood\\wwwroot\\css\\scss\\bootstrap\\mixins\\_gradients.scss",
+      "PackagePath": "staticwebassets\\css\\scss\\bootstrap\\mixins\\_gradients.scss"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MoonFood\\MoonFood\\MoonFood\\MoonFood\\wwwroot\\css\\scss\\bootstrap\\mixins\\_grid-framework.scss",
+      "PackagePath": "staticwebassets\\css\\scss\\bootstrap\\mixins\\_grid-framework.scss"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MoonFood\\MoonFood\\MoonFood\\MoonFood\\wwwroot\\css\\scss\\bootstrap\\mixins\\_grid.scss",
+      "PackagePath": "staticwebassets\\css\\scss\\bootstrap\\mixins\\_grid.scss"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MoonFood\\MoonFood\\MoonFood\\MoonFood\\wwwroot\\css\\scss\\bootstrap\\mixins\\_hover.scss",
+      "PackagePath": "staticwebassets\\css\\scss\\bootstrap\\mixins\\_hover.scss"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MoonFood\\MoonFood\\MoonFood\\MoonFood\\wwwroot\\css\\scss\\bootstrap\\mixins\\_image.scss",
+      "PackagePath": "staticwebassets\\css\\scss\\bootstrap\\mixins\\_image.scss"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MoonFood\\MoonFood\\MoonFood\\MoonFood\\wwwroot\\css\\scss\\bootstrap\\mixins\\_list-group.scss",
+      "PackagePath": "staticwebassets\\css\\scss\\bootstrap\\mixins\\_list-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MoonFood\\MoonFood\\MoonFood\\MoonFood\\wwwroot\\css\\scss\\bootstrap\\mixins\\_lists.scss",
+      "PackagePath": "staticwebassets\\css\\scss\\bootstrap\\mixins\\_lists.scss"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MoonFood\\MoonFood\\MoonFood\\MoonFood\\wwwroot\\css\\scss\\bootstrap\\mixins\\_nav-divider.scss",
+      "PackagePath": "staticwebassets\\css\\scss\\bootstrap\\mixins\\_nav-divider.scss"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MoonFood\\MoonFood\\MoonFood\\MoonFood\\wwwroot\\css\\scss\\bootstrap\\mixins\\_pagination.scss",
+      "PackagePath": "staticwebassets\\css\\scss\\bootstrap\\mixins\\_pagination.scss"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MoonFood\\MoonFood\\MoonFood\\MoonFood\\wwwroot\\css\\scss\\bootstrap\\mixins\\_reset-text.scss",
+      "PackagePath": "staticwebassets\\css\\scss\\bootstrap\\mixins\\_reset-text.scss"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MoonFood\\MoonFood\\MoonFood\\MoonFood\\wwwroot\\css\\scss\\bootstrap\\mixins\\_resize.scss",
+      "PackagePath": "staticwebassets\\css\\scss\\bootstrap\\mixins\\_resize.scss"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MoonFood\\MoonFood\\MoonFood\\MoonFood\\wwwroot\\css\\scss\\bootstrap\\mixins\\_screen-reader.scss",
+      "PackagePath": "staticwebassets\\css\\scss\\bootstrap\\mixins\\_screen-reader.scss"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MoonFood\\MoonFood\\MoonFood\\MoonFood\\wwwroot\\css\\scss\\bootstrap\\mixins\\_size.scss",
+      "PackagePath": "staticwebassets\\css\\scss\\bootstrap\\mixins\\_size.scss"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MoonFood\\MoonFood\\MoonFood\\MoonFood\\wwwroot\\css\\scss\\bootstrap\\mixins\\_table-row.scss",
+      "PackagePath": "staticwebassets\\css\\scss\\bootstrap\\mixins\\_table-row.scss"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MoonFood\\MoonFood\\MoonFood\\MoonFood\\wwwroot\\css\\scss\\bootstrap\\mixins\\_text-emphasis.scss",
+      "PackagePath": "staticwebassets\\css\\scss\\bootstrap\\mixins\\_text-emphasis.scss"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MoonFood\\MoonFood\\MoonFood\\MoonFood\\wwwroot\\css\\scss\\bootstrap\\mixins\\_text-hide.scss",
+      "PackagePath": "staticwebassets\\css\\scss\\bootstrap\\mixins\\_text-hide.scss"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MoonFood\\MoonFood\\MoonFood\\MoonFood\\wwwroot\\css\\scss\\bootstrap\\mixins\\_text-truncate.scss",
+      "PackagePath": "staticwebassets\\css\\scss\\bootstrap\\mixins\\_text-truncate.scss"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MoonFood\\MoonFood\\MoonFood\\MoonFood\\wwwroot\\css\\scss\\bootstrap\\mixins\\_transition.scss",
+      "PackagePath": "staticwebassets\\css\\scss\\bootstrap\\mixins\\_transition.scss"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MoonFood\\MoonFood\\MoonFood\\MoonFood\\wwwroot\\css\\scss\\bootstrap\\mixins\\_visibility.scss",
+      "PackagePath": "staticwebassets\\css\\scss\\bootstrap\\mixins\\_visibility.scss"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MoonFood\\MoonFood\\MoonFood\\MoonFood\\wwwroot\\css\\scss\\bootstrap\\utilities\\_align.scss",
+      "PackagePath": "staticwebassets\\css\\scss\\bootstrap\\utilities\\_align.scss"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MoonFood\\MoonFood\\MoonFood\\MoonFood\\wwwroot\\css\\scss\\bootstrap\\utilities\\_background.scss",
+      "PackagePath": "staticwebassets\\css\\scss\\bootstrap\\utilities\\_background.scss"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MoonFood\\MoonFood\\MoonFood\\MoonFood\\wwwroot\\css\\scss\\bootstrap\\utilities\\_borders.scss",
+      "PackagePath": "staticwebassets\\css\\scss\\bootstrap\\utilities\\_borders.scss"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MoonFood\\MoonFood\\MoonFood\\MoonFood\\wwwroot\\css\\scss\\bootstrap\\utilities\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\css\\scss\\bootstrap\\utilities\\_clearfix.scss"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MoonFood\\MoonFood\\MoonFood\\MoonFood\\wwwroot\\css\\scss\\bootstrap\\utilities\\_display.scss",
+      "PackagePath": "staticwebassets\\css\\scss\\bootstrap\\utilities\\_display.scss"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MoonFood\\MoonFood\\MoonFood\\MoonFood\\wwwroot\\css\\scss\\bootstrap\\utilities\\_embed.scss",
+      "PackagePath": "staticwebassets\\css\\scss\\bootstrap\\utilities\\_embed.scss"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MoonFood\\MoonFood\\MoonFood\\MoonFood\\wwwroot\\css\\scss\\bootstrap\\utilities\\_flex.scss",
+      "PackagePath": "staticwebassets\\css\\scss\\bootstrap\\utilities\\_flex.scss"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MoonFood\\MoonFood\\MoonFood\\MoonFood\\wwwroot\\css\\scss\\bootstrap\\utilities\\_float.scss",
+      "PackagePath": "staticwebassets\\css\\scss\\bootstrap\\utilities\\_float.scss"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MoonFood\\MoonFood\\MoonFood\\MoonFood\\wwwroot\\css\\scss\\bootstrap\\utilities\\_position.scss",
+      "PackagePath": "staticwebassets\\css\\scss\\bootstrap\\utilities\\_position.scss"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MoonFood\\MoonFood\\MoonFood\\MoonFood\\wwwroot\\css\\scss\\bootstrap\\utilities\\_screenreaders.scss",
+      "PackagePath": "staticwebassets\\css\\scss\\bootstrap\\utilities\\_screenreaders.scss"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MoonFood\\MoonFood\\MoonFood\\MoonFood\\wwwroot\\css\\scss\\bootstrap\\utilities\\_shadows.scss",
+      "PackagePath": "staticwebassets\\css\\scss\\bootstrap\\utilities\\_shadows.scss"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MoonFood\\MoonFood\\MoonFood\\MoonFood\\wwwroot\\css\\scss\\bootstrap\\utilities\\_sizing.scss",
+      "PackagePath": "staticwebassets\\css\\scss\\bootstrap\\utilities\\_sizing.scss"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MoonFood\\MoonFood\\MoonFood\\MoonFood\\wwwroot\\css\\scss\\bootstrap\\utilities\\_spacing.scss",
+      "PackagePath": "staticwebassets\\css\\scss\\bootstrap\\utilities\\_spacing.scss"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MoonFood\\MoonFood\\MoonFood\\MoonFood\\wwwroot\\css\\scss\\bootstrap\\utilities\\_text.scss",
+      "PackagePath": "staticwebassets\\css\\scss\\bootstrap\\utilities\\_text.scss"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MoonFood\\MoonFood\\MoonFood\\MoonFood\\wwwroot\\css\\scss\\bootstrap\\utilities\\_visibility.scss",
+      "PackagePath": "staticwebassets\\css\\scss\\bootstrap\\utilities\\_visibility.scss"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MoonFood\\MoonFood\\MoonFood\\MoonFood\\wwwroot\\css\\scss\\style.scss",
+      "PackagePath": "staticwebassets\\css\\scss\\style.scss"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MoonFood\\MoonFood\\MoonFood\\MoonFood\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MoonFood\\MoonFood\\MoonFood\\MoonFood\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MoonFood\\MoonFood\\MoonFood\\MoonFood\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MoonFood\\MoonFood\\MoonFood\\MoonFood\\wwwroot\\images\\mainpage\\.DS_Store",
+      "PackagePath": "staticwebassets\\images\\mainpage\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MoonFood\\MoonFood\\MoonFood\\MoonFood\\wwwroot\\images\\mainpage\\about.jpg",
+      "PackagePath": "staticwebassets\\images\\mainpage\\about.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MoonFood\\MoonFood\\MoonFood\\MoonFood\\wwwroot\\images\\mainpage\\bg_1.jpg",
+      "PackagePath": "staticwebassets\\images\\mainpage\\bg_1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MoonFood\\MoonFood\\MoonFood\\MoonFood\\wwwroot\\images\\mainpage\\bg_1.png",
+      "PackagePath": "staticwebassets\\images\\mainpage\\bg_1.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MoonFood\\MoonFood\\MoonFood\\MoonFood\\wwwroot\\images\\mainpage\\bg_2.jpg",
+      "PackagePath": "staticwebassets\\images\\mainpage\\bg_2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MoonFood\\MoonFood\\MoonFood\\MoonFood\\wwwroot\\images\\mainpage\\bg_2.png",
+      "PackagePath": "staticwebassets\\images\\mainpage\\bg_2.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MoonFood\\MoonFood\\MoonFood\\MoonFood\\wwwroot\\images\\mainpage\\bg_3.jpg",
+      "PackagePath": "staticwebassets\\images\\mainpage\\bg_3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MoonFood\\MoonFood\\MoonFood\\MoonFood\\wwwroot\\images\\mainpage\\bg_4.jpg",
+      "PackagePath": "staticwebassets\\images\\mainpage\\bg_4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MoonFood\\MoonFood\\MoonFood\\MoonFood\\wwwroot\\images\\mainpage\\burger-1.jpg",
+      "PackagePath": "staticwebassets\\images\\mainpage\\burger-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MoonFood\\MoonFood\\MoonFood\\MoonFood\\wwwroot\\images\\mainpage\\burger-2.jpg",
+      "PackagePath": "staticwebassets\\images\\mainpage\\burger-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MoonFood\\MoonFood\\MoonFood\\MoonFood\\wwwroot\\images\\mainpage\\burger-3.jpg",
+      "PackagePath": "staticwebassets\\images\\mainpage\\burger-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MoonFood\\MoonFood\\MoonFood\\MoonFood\\wwwroot\\images\\mainpage\\drink-1.jpg",
+      "PackagePath": "staticwebassets\\images\\mainpage\\drink-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MoonFood\\MoonFood\\MoonFood\\MoonFood\\wwwroot\\images\\mainpage\\drink-2.jpg",
+      "PackagePath": "staticwebassets\\images\\mainpage\\drink-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MoonFood\\MoonFood\\MoonFood\\MoonFood\\wwwroot\\images\\mainpage\\drink-3.jpg",
+      "PackagePath": "staticwebassets\\images\\mainpage\\drink-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MoonFood\\MoonFood\\MoonFood\\MoonFood\\wwwroot\\images\\mainpage\\drink-4.jpg",
+      "PackagePath": "staticwebassets\\images\\mainpage\\drink-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MoonFood\\MoonFood\\MoonFood\\MoonFood\\wwwroot\\images\\mainpage\\drink-5.jpg",
+      "PackagePath": "staticwebassets\\images\\mainpage\\drink-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MoonFood\\MoonFood\\MoonFood\\MoonFood\\wwwroot\\images\\mainpage\\drink-6.jpg",
+      "PackagePath": "staticwebassets\\images\\mainpage\\drink-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MoonFood\\MoonFood\\MoonFood\\MoonFood\\wwwroot\\images\\mainpage\\drink-7.jpg",
+      "PackagePath": "staticwebassets\\images\\mainpage\\drink-7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MoonFood\\MoonFood\\MoonFood\\MoonFood\\wwwroot\\images\\mainpage\\drink-8.jpg",
+      "PackagePath": "staticwebassets\\images\\mainpage\\drink-8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MoonFood\\MoonFood\\MoonFood\\MoonFood\\wwwroot\\images\\mainpage\\drink-9.jpg",
+      "PackagePath": "staticwebassets\\images\\mainpage\\drink-9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MoonFood\\MoonFood\\MoonFood\\MoonFood\\wwwroot\\images\\mainpage\\food.png",
+      "PackagePath": "staticwebassets\\images\\mainpage\\food.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MoonFood\\MoonFood\\MoonFood\\MoonFood\\wwwroot\\images\\mainpage\\gallery-1.jpg",
+      "PackagePath": "staticwebassets\\images\\mainpage\\gallery-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MoonFood\\MoonFood\\MoonFood\\MoonFood\\wwwroot\\images\\mainpage\\gallery-2.jpg",
+      "PackagePath": "staticwebassets\\images\\mainpage\\gallery-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MoonFood\\MoonFood\\MoonFood\\MoonFood\\wwwroot\\images\\mainpage\\gallery-3.jpg",
+      "PackagePath": "staticwebassets\\images\\mainpage\\gallery-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MoonFood\\MoonFood\\MoonFood\\MoonFood\\wwwroot\\images\\mainpage\\gallery-4.jpg",
+      "PackagePath": "staticwebassets\\images\\mainpage\\gallery-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MoonFood\\MoonFood\\MoonFood\\MoonFood\\wwwroot\\images\\mainpage\\image_1.jpg",
+      "PackagePath": "staticwebassets\\images\\mainpage\\image_1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MoonFood\\MoonFood\\MoonFood\\MoonFood\\wwwroot\\images\\mainpage\\image_2.jpg",
+      "PackagePath": "staticwebassets\\images\\mainpage\\image_2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MoonFood\\MoonFood\\MoonFood\\MoonFood\\wwwroot\\images\\mainpage\\image_3.jpg",
+      "PackagePath": "staticwebassets\\images\\mainpage\\image_3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MoonFood\\MoonFood\\MoonFood\\MoonFood\\wwwroot\\images\\mainpage\\image_4.jpg",
+      "PackagePath": "staticwebassets\\images\\mainpage\\image_4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MoonFood\\MoonFood\\MoonFood\\MoonFood\\wwwroot\\images\\mainpage\\image_5.jpg",
+      "PackagePath": "staticwebassets\\images\\mainpage\\image_5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MoonFood\\MoonFood\\MoonFood\\MoonFood\\wwwroot\\images\\mainpage\\image_6.jpg",
+      "PackagePath": "staticwebassets\\images\\mainpage\\image_6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MoonFood\\MoonFood\\MoonFood\\MoonFood\\wwwroot\\images\\mainpage\\istockphoto-1393350640-612x612.jpg",
+      "PackagePath": "staticwebassets\\images\\mainpage\\istockphoto-1393350640-612x612.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MoonFood\\MoonFood\\MoonFood\\MoonFood\\wwwroot\\images\\mainpage\\loc.png",
+      "PackagePath": "staticwebassets\\images\\mainpage\\loc.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MoonFood\\MoonFood\\MoonFood\\MoonFood\\wwwroot\\images\\mainpage\\old-black-background-grunge-texture-dark-wallpaper-blackboard-chalkboard-room-wall.jpg",
+      "PackagePath": "staticwebassets\\images\\mainpage\\old-black-background-grunge-texture-dark-wallpaper-blackboard-chalkboard-room-wall.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MoonFood\\MoonFood\\MoonFood\\MoonFood\\wwwroot\\images\\mainpage\\pasta-1.jpg",
+      "PackagePath": "staticwebassets\\images\\mainpage\\pasta-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MoonFood\\MoonFood\\MoonFood\\MoonFood\\wwwroot\\images\\mainpage\\pasta-2.jpg",
+      "PackagePath": "staticwebassets\\images\\mainpage\\pasta-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MoonFood\\MoonFood\\MoonFood\\MoonFood\\wwwroot\\images\\mainpage\\pasta-3.jpg",
+      "PackagePath": "staticwebassets\\images\\mainpage\\pasta-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MoonFood\\MoonFood\\MoonFood\\MoonFood\\wwwroot\\images\\mainpage\\person_1.jpg",
+      "PackagePath": "staticwebassets\\images\\mainpage\\person_1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MoonFood\\MoonFood\\MoonFood\\MoonFood\\wwwroot\\images\\mainpage\\person_2.jpg",
+      "PackagePath": "staticwebassets\\images\\mainpage\\person_2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MoonFood\\MoonFood\\MoonFood\\MoonFood\\wwwroot\\images\\mainpage\\person_3.jpg",
+      "PackagePath": "staticwebassets\\images\\mainpage\\person_3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MoonFood\\MoonFood\\MoonFood\\MoonFood\\wwwroot\\images\\mainpage\\person_4.jpg",
+      "PackagePath": "staticwebassets\\images\\mainpage\\person_4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MoonFood\\MoonFood\\MoonFood\\MoonFood\\wwwroot\\images\\mainpage\\pexels-arthur-brognoli-3343627.jpg",
+      "PackagePath": "staticwebassets\\images\\mainpage\\pexels-arthur-brognoli-3343627.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MoonFood\\MoonFood\\MoonFood\\MoonFood\\wwwroot\\images\\mainpage\\pexels-ave-calvar-martinez-4337031.jpg",
+      "PackagePath": "staticwebassets\\images\\mainpage\\pexels-ave-calvar-martinez-4337031.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MoonFood\\MoonFood\\MoonFood\\MoonFood\\wwwroot\\images\\mainpage\\pexels-charlotte-may-5825604.jpg",
+      "PackagePath": "staticwebassets\\images\\mainpage\\pexels-charlotte-may-5825604.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MoonFood\\MoonFood\\MoonFood\\MoonFood\\wwwroot\\images\\mainpage\\pexels-chevanon-photography-1108117.jpg",
+      "PackagePath": "staticwebassets\\images\\mainpage\\pexels-chevanon-photography-1108117.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MoonFood\\MoonFood\\MoonFood\\MoonFood\\wwwroot\\images\\mainpage\\pexels-chevanon-photography-359993.jpg",
+      "PackagePath": "staticwebassets\\images\\mainpage\\pexels-chevanon-photography-359993.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MoonFood\\MoonFood\\MoonFood\\MoonFood\\wwwroot\\images\\mainpage\\pexels-kevin-bidwell-1301945.jpg",
+      "PackagePath": "staticwebassets\\images\\mainpage\\pexels-kevin-bidwell-1301945.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MoonFood\\MoonFood\\MoonFood\\MoonFood\\wwwroot\\images\\mainpage\\pexels-lumn-604969 (1).jpg",
+      "PackagePath": "staticwebassets\\images\\mainpage\\pexels-lumn-604969 (1).jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MoonFood\\MoonFood\\MoonFood\\MoonFood\\wwwroot\\images\\mainpage\\pexels-lumn-604969.jpg",
+      "PackagePath": "staticwebassets\\images\\mainpage\\pexels-lumn-604969.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MoonFood\\MoonFood\\MoonFood\\MoonFood\\wwwroot\\images\\mainpage\\pexels-max-avans-5056861.jpg",
+      "PackagePath": "staticwebassets\\images\\mainpage\\pexels-max-avans-5056861.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MoonFood\\MoonFood\\MoonFood\\MoonFood\\wwwroot\\images\\mainpage\\pexels-roman-odintsov-5903097.jpg",
+      "PackagePath": "staticwebassets\\images\\mainpage\\pexels-roman-odintsov-5903097.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MoonFood\\MoonFood\\MoonFood\\MoonFood\\wwwroot\\images\\mainpage\\pexels-roman-odintsov-6147825.jpg",
+      "PackagePath": "staticwebassets\\images\\mainpage\\pexels-roman-odintsov-6147825.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MoonFood\\MoonFood\\MoonFood\\MoonFood\\wwwroot\\images\\mainpage\\pexels-shamia-casiano-2015097.jpg",
+      "PackagePath": "staticwebassets\\images\\mainpage\\pexels-shamia-casiano-2015097.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MoonFood\\MoonFood\\MoonFood\\MoonFood\\wwwroot\\images\\mainpage\\pexels-skylar-kang-6044820.jpg",
+      "PackagePath": "staticwebassets\\images\\mainpage\\pexels-skylar-kang-6044820.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MoonFood\\MoonFood\\MoonFood\\MoonFood\\wwwroot\\images\\mainpage\\pizza-1.jpg",
+      "PackagePath": "staticwebassets\\images\\mainpage\\pizza-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MoonFood\\MoonFood\\MoonFood\\MoonFood\\wwwroot\\images\\mainpage\\pizza-2.jpg",
+      "PackagePath": "staticwebassets\\images\\mainpage\\pizza-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MoonFood\\MoonFood\\MoonFood\\MoonFood\\wwwroot\\images\\mainpage\\pizza-3.jpg",
+      "PackagePath": "staticwebassets\\images\\mainpage\\pizza-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MoonFood\\MoonFood\\MoonFood\\MoonFood\\wwwroot\\images\\mainpage\\pizza-4.jpg",
+      "PackagePath": "staticwebassets\\images\\mainpage\\pizza-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MoonFood\\MoonFood\\MoonFood\\MoonFood\\wwwroot\\images\\mainpage\\pizza-5.jpg",
+      "PackagePath": "staticwebassets\\images\\mainpage\\pizza-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MoonFood\\MoonFood\\MoonFood\\MoonFood\\wwwroot\\images\\mainpage\\pizza-6.jpg",
+      "PackagePath": "staticwebassets\\images\\mainpage\\pizza-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MoonFood\\MoonFood\\MoonFood\\MoonFood\\wwwroot\\images\\mainpage\\pizza-7.jpg",
+      "PackagePath": "staticwebassets\\images\\mainpage\\pizza-7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MoonFood\\MoonFood\\MoonFood\\MoonFood\\wwwroot\\images\\mainpage\\pizza-8.jpg",
+      "PackagePath": "staticwebassets\\images\\mainpage\\pizza-8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MoonFood\\MoonFood\\MoonFood\\MoonFood\\wwwroot\\images\\products\\052f4730-12f4-4f7e-bfe1-ba681cd70735.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\052f4730-12f4-4f7e-bfe1-ba681cd70735.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MoonFood\\MoonFood\\MoonFood\\MoonFood\\wwwroot\\images\\products\\12aa3f9e-4663-42b4-b89c-3b46ab539fd0.png",
+      "PackagePath": "staticwebassets\\images\\products\\12aa3f9e-4663-42b4-b89c-3b46ab539fd0.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MoonFood\\MoonFood\\MoonFood\\MoonFood\\wwwroot\\images\\products\\1a8a61fb-9715-43b9-a052-75c4eae611bc.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\1a8a61fb-9715-43b9-a052-75c4eae611bc.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MoonFood\\MoonFood\\MoonFood\\MoonFood\\wwwroot\\images\\products\\20602c51-c062-4c31-adc9-33f971786b2c.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\20602c51-c062-4c31-adc9-33f971786b2c.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MoonFood\\MoonFood\\MoonFood\\MoonFood\\wwwroot\\images\\products\\2db9c835-460d-4e45-b5e6-321290ee5ede.png",
+      "PackagePath": "staticwebassets\\images\\products\\2db9c835-460d-4e45-b5e6-321290ee5ede.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MoonFood\\MoonFood\\MoonFood\\MoonFood\\wwwroot\\images\\products\\74f73899-f3cc-4f3a-9f5b-fce5e8a47060.png",
+      "PackagePath": "staticwebassets\\images\\products\\74f73899-f3cc-4f3a-9f5b-fce5e8a47060.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MoonFood\\MoonFood\\MoonFood\\MoonFood\\wwwroot\\images\\products\\7b553e61-293a-45df-8582-ec03ec3461c7.png",
+      "PackagePath": "staticwebassets\\images\\products\\7b553e61-293a-45df-8582-ec03ec3461c7.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MoonFood\\MoonFood\\MoonFood\\MoonFood\\wwwroot\\images\\products\\97505661-9e30-4bc8-a020-e5364f987300.png",
+      "PackagePath": "staticwebassets\\images\\products\\97505661-9e30-4bc8-a020-e5364f987300.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MoonFood\\MoonFood\\MoonFood\\MoonFood\\wwwroot\\images\\products\\9f786205-3be5-4d4b-9423-f1e0202adb71.png",
+      "PackagePath": "staticwebassets\\images\\products\\9f786205-3be5-4d4b-9423-f1e0202adb71.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MoonFood\\MoonFood\\MoonFood\\MoonFood\\wwwroot\\images\\products\\a4ac304d-811a-4e53-8326-df2f2b774ee1.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\a4ac304d-811a-4e53-8326-df2f2b774ee1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MoonFood\\MoonFood\\MoonFood\\MoonFood\\wwwroot\\images\\products\\d8f2e8ea-cf78-4692-a057-228c72193754.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\d8f2e8ea-cf78-4692-a057-228c72193754.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MoonFood\\MoonFood\\MoonFood\\MoonFood\\wwwroot\\images\\products\\de8a8ef8-490f-430c-b381-59cb7500213d.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\de8a8ef8-490f-430c-b381-59cb7500213d.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MoonFood\\MoonFood\\MoonFood\\MoonFood\\wwwroot\\images\\products\\fed3a89c-cf3d-4da1-9704-6fc5a7f733aa.png",
+      "PackagePath": "staticwebassets\\images\\products\\fed3a89c-cf3d-4da1-9704-6fc5a7f733aa.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MoonFood\\MoonFood\\MoonFood\\MoonFood\\wwwroot\\images\\products\\ffd1c1ec-c37c-4be8-ae76-886fef26307f.png",
+      "PackagePath": "staticwebassets\\images\\products\\ffd1c1ec-c37c-4be8-ae76-886fef26307f.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MoonFood\\MoonFood\\MoonFood\\MoonFood\\wwwroot\\js\\.DS_Store",
+      "PackagePath": "staticwebassets\\js\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MoonFood\\MoonFood\\MoonFood\\MoonFood\\wwwroot\\js\\aos.js",
+      "PackagePath": "staticwebassets\\js\\aos.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MoonFood\\MoonFood\\MoonFood\\MoonFood\\wwwroot\\js\\bootstrap-datepicker.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap-datepicker.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MoonFood\\MoonFood\\MoonFood\\MoonFood\\wwwroot\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MoonFood\\MoonFood\\MoonFood\\MoonFood\\wwwroot\\js\\google-map.js",
+      "PackagePath": "staticwebassets\\js\\google-map.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MoonFood\\MoonFood\\MoonFood\\MoonFood\\wwwroot\\js\\jquery-3.2.1.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery-3.2.1.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MoonFood\\MoonFood\\MoonFood\\MoonFood\\wwwroot\\js\\jquery-migrate-3.0.1.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery-migrate-3.0.1.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MoonFood\\MoonFood\\MoonFood\\MoonFood\\wwwroot\\js\\jquery.animateNumber.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.animateNumber.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MoonFood\\MoonFood\\MoonFood\\MoonFood\\wwwroot\\js\\jquery.easing.1.3.js",
+      "PackagePath": "staticwebassets\\js\\jquery.easing.1.3.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MoonFood\\MoonFood\\MoonFood\\MoonFood\\wwwroot\\js\\jquery.magnific-popup.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.magnific-popup.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MoonFood\\MoonFood\\MoonFood\\MoonFood\\wwwroot\\js\\jquery.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MoonFood\\MoonFood\\MoonFood\\MoonFood\\wwwroot\\js\\jquery.stellar.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.stellar.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MoonFood\\MoonFood\\MoonFood\\MoonFood\\wwwroot\\js\\jquery.timepicker.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.timepicker.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MoonFood\\MoonFood\\MoonFood\\MoonFood\\wwwroot\\js\\jquery.waypoints.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.waypoints.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MoonFood\\MoonFood\\MoonFood\\MoonFood\\wwwroot\\js\\main.js",
+      "PackagePath": "staticwebassets\\js\\main.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MoonFood\\MoonFood\\MoonFood\\MoonFood\\wwwroot\\js\\order.js",
+      "PackagePath": "staticwebassets\\js\\order.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MoonFood\\MoonFood\\MoonFood\\MoonFood\\wwwroot\\js\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\js\\owl.carousel.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MoonFood\\MoonFood\\MoonFood\\MoonFood\\wwwroot\\js\\popper.min.js",
+      "PackagePath": "staticwebassets\\js\\popper.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MoonFood\\MoonFood\\MoonFood\\MoonFood\\wwwroot\\js\\product.js",
+      "PackagePath": "staticwebassets\\js\\product.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MoonFood\\MoonFood\\MoonFood\\MoonFood\\wwwroot\\js\\range.js",
+      "PackagePath": "staticwebassets\\js\\range.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MoonFood\\MoonFood\\MoonFood\\MoonFood\\wwwroot\\js\\scrollax.min.js",
+      "PackagePath": "staticwebassets\\js\\scrollax.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MoonFood\\MoonFood\\MoonFood\\MoonFood\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MoonFood\\MoonFood\\MoonFood\\MoonFood\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MoonFood\\MoonFood\\MoonFood\\MoonFood\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MoonFood\\MoonFood\\MoonFood\\MoonFood\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MoonFood\\MoonFood\\MoonFood\\MoonFood\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MoonFood\\MoonFood\\MoonFood\\MoonFood\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MoonFood\\MoonFood\\MoonFood\\MoonFood\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MoonFood\\MoonFood\\MoonFood\\MoonFood\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MoonFood\\MoonFood\\MoonFood\\MoonFood\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MoonFood\\MoonFood\\MoonFood\\MoonFood\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MoonFood\\MoonFood\\MoonFood\\MoonFood\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MoonFood\\MoonFood\\MoonFood\\MoonFood\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MoonFood\\MoonFood\\MoonFood\\MoonFood\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MoonFood\\MoonFood\\MoonFood\\MoonFood\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MoonFood\\MoonFood\\MoonFood\\MoonFood\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MoonFood\\MoonFood\\MoonFood\\MoonFood\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MoonFood\\MoonFood\\MoonFood\\MoonFood\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MoonFood\\MoonFood\\MoonFood\\MoonFood\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MoonFood\\MoonFood\\MoonFood\\MoonFood\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MoonFood\\MoonFood\\MoonFood\\MoonFood\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MoonFood\\MoonFood\\MoonFood\\MoonFood\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MoonFood\\MoonFood\\MoonFood\\MoonFood\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MoonFood\\MoonFood\\MoonFood\\MoonFood\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MoonFood\\MoonFood\\MoonFood\\MoonFood\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MoonFood\\MoonFood\\MoonFood\\MoonFood\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MoonFood\\MoonFood\\MoonFood\\MoonFood\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MoonFood\\MoonFood\\MoonFood\\MoonFood\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MoonFood\\MoonFood\\MoonFood\\MoonFood\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MoonFood\\MoonFood\\MoonFood\\MoonFood\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MoonFood\\MoonFood\\MoonFood\\MoonFood\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MoonFood\\MoonFood\\MoonFood\\MoonFood\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MoonFood\\MoonFood\\MoonFood\\MoonFood\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MoonFood\\MoonFood\\MoonFood\\MoonFood\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MoonFood\\MoonFood\\MoonFood\\MoonFood\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MoonFood\\MoonFood\\MoonFood\\MoonFood\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MoonFood\\MoonFood\\MoonFood\\MoonFood\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MoonFood\\MoonFood\\MoonFood\\MoonFood\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MoonFood\\MoonFood\\MoonFood\\MoonFood\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MoonFood\\MoonFood\\MoonFood\\MoonFood\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MoonFood\\MoonFood\\MoonFood\\MoonFood\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MoonFood\\MoonFood\\MoonFood\\MoonFood\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MoonFood\\MoonFood\\MoonFood\\MoonFood\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MoonFood\\MoonFood\\MoonFood\\MoonFood\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MoonFood\\MoonFood\\MoonFood\\MoonFood\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MoonFood\\MoonFood\\MoonFood\\MoonFood\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MoonFood\\MoonFood\\MoonFood\\MoonFood\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MoonFood\\MoonFood\\MoonFood\\MoonFood\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MoonFood\\MoonFood\\MoonFood\\MoonFood\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MoonFood\\MoonFood\\MoonFood\\MoonFood\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MoonFood\\MoonFood\\MoonFood\\MoonFood\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MoonFood\\MoonFood\\MoonFood\\MoonFood\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MoonFood\\MoonFood\\MoonFood\\MoonFood\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MoonFood\\MoonFood\\MoonFood\\MoonFood\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MoonFood\\MoonFood\\MoonFood\\MoonFood\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MoonFood\\MoonFood\\MoonFood\\MoonFood\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MoonFood\\MoonFood\\MoonFood\\MoonFood\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MoonFood\\MoonFood\\MoonFood\\MoonFood\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\MoonFood\\MoonFood\\MoonFood\\MoonFood\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.MoonFood.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.MoonFood.props",
+      "PackagePath": "build\\MoonFood.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.MoonFood.props",
+      "PackagePath": "buildMultiTargeting\\MoonFood.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.MoonFood.props",
+      "PackagePath": "buildTransitive\\MoonFood.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
