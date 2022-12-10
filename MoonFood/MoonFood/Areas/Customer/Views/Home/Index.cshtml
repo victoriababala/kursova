@@ -1,0 +1,425 @@
+﻿@model IEnumerable<MoonFood.Models.Product>
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+@*<div class="row pb-3">
+	@foreach(var product in Model)
+	{
+		<div class="col-lg-3 col-md-6">
+			<div class="row p-2">
+				<div class="col-12 p-1" style="border:1px solid #008cba; border-radius: 5px;">
+					<div class="card">
+						<img src="@product.ImageUrl" class="card-img-top rounded"/>
+
+						<div class="card-body">
+						<div class="pl-1">
+							<p class="card-title h5 text-primary">@product.Name</p>
+							<p class="card-title "> <b>@product.Description</b></p>
+						</div>
+						<div class="pl-1">
+							<p> Price: <b>₴@product.Price.ToString("0.00")</b></p>
+						</div>
+						</div>
+					</div>
+					<div>
+						<a asp-action="Details" class="btn btn-primary form-control" asp-route-productId="@product.Id">
+							Details
+						</a>
+					</div>
+				</div> 
+			</div>
+		</div>
+	}
+</div>*@
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <link href="https://fonts.googleapis.com/css?family=Poppins:300,400,500,600,700" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Josefin+Sans" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Nothing+You+Could+Do" rel="stylesheet">
+
+    <link rel="stylesheet" href="css/open-iconic-bootstrap.min.css">
+    <link rel="stylesheet" href="css/animate.css">
+
+    <link rel="stylesheet" href="css/owl.carousel.min.css">
+    <link rel="stylesheet" href="css/owl.theme.default.min.css">
+    <link rel="stylesheet" href="css/magnific-popup.css">
+
+    <link rel="stylesheet" href="css/aos.css">
+
+    <link rel="stylesheet" href="css/ionicons.min.css">
+
+    <link rel="stylesheet" href="css/bootstrap-datepicker.css">
+    <link rel="stylesheet" href="css/jquery.timepicker.css">
+
+
+    <link rel="stylesheet" href="css/flaticon.css">
+    <link rel="stylesheet" href="css/icomoon.css">
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body style="background-image:url(images/mainpage/old-black-background-grunge-texture-dark-wallpaper-blackboard-chalkboard-room-wall.jpg)">
+    <!-- END nav -->
+
+    <section class="home-slider owl-carousel img" style="background-image:url(images/mainpage/pexels-roman-odintsov-6147825.jpg);">
+        <div class="slider-item">
+            <div class="overlay"></div>
+            <div class="container">
+                <div class="row slider-text align-items-center" data-scrollax-parent="true">
+
+                    <div class="col-md-6 col-sm-12 ftco-animate">
+                        <span class="subheading">MoonFood</span>
+                        <h1 class="mb-4">Pizza Burgers Salads</h1>
+                        <p class="mb-4 mb-md-5">MoonFood is a chain of establishments that prepare and deliver a wide range of pizzas with various toppings for all tastes.</p>
+                    </div>
+                    <div class="col-md-6 ftco-animate">
+                        <img src="images/bg_1.png" class="img-fluid" alt="">
+                    </div>
+
+                </div>
+            </div>
+        </div>
+
+        <div class="slider-item">
+            <div class="overlay"></div>
+            <div class="container">
+                <div class="row slider-text align-items-center" data-scrollax-parent="true">
+
+                    <div class="col-md-6 col-sm-12 order-md-last ftco-animate">
+                        <span class="subheading">Crunchy</span>
+                        <h1 class="mb-4">Italian Pizza</h1>
+                        <p class="mb-4 mb-md-5">We offer pizza created according to a traditional Italian recipe and implement original and popular recipes.</p>
+                    </div>
+                    <div class="col-md-6 ftco-animate">
+                    </div>
+
+                </div>
+            </div>
+        </div>
+
+        <div class="slider-item" style="background-image: url(images/mainpage/pexels-max-avans-5056861.jpg);">
+            <div class="overlay"></div>
+            <div class="container">
+                <div class="row slider-text justify-content-center align-items-center" data-scrollax-parent="true">
+
+                    <div class="col-md-7 col-sm-12 text-center ftco-animate">
+                        <span class="subheading">Welcome</span>
+                        <h1 class="mb-4">We cooked your desired Pizza Recipe</h1>
+                        <p class="mb-4 mb-md-5">All our dishes are prepared by experienced chefs in a modern kitchen using fresh and ecological products.</p>
+                    </div>
+
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section class="ftco-intro">
+        <div class="container-wrap">
+            <div class="wrap d-md-flex">
+                <div class="info">
+                    <div class="row no-gutters">
+                        <div class="col-md-4 d-flex ftco-animate">
+                            <div class="icon"><i class="bi bi-telephone-fill"></i></div>
+                            <div class="text">
+                                <h3>000 (123) 456 7890</h3>
+                                <p>24 hour line</p>
+                            </div>
+                        </div>
+                        <div class="col-md-4 d-flex ftco-animate">
+                            <div class="icon"><i class="bi bi-geo-alt-fill"></i></div>
+                            <div class="text">
+                                <h3>3 Avenue Saint Laurent,</h3>
+                                <p> Monte-Carlo 98000 Monaco</p>
+                            </div>
+                        </div>
+                        <div class="col-md-4 d-flex ftco-animate">
+                            <div class="icon"><i class="bi bi-clock-fill"></i></div>
+                            <div class="text">
+                                <h3>Open Monday-Friday</h3>
+                                <p>8:00am - 9:00pm</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="social d-md-flex pl-md-5 p-4 align-items-center">
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section class="ftco-about d-md-flex">
+        <div class="one-half img" style="background-image:url(images/mainpage/about.jpg);"></div>
+        <div class="one-half ftco-animate">
+            <div class="heading-section ftco-animate ">
+                <h2 class="mb-4">Welcome to  MoonFood</h2>
+            </div>
+            <div>
+                <p >Home or office, to any corner of the city, we are ready to quickly bring our dishes to your doorstep. 
+                Each of our establishments promptly accepts and processes orders and implements fast delivery.
+                    In the process of transportation, meals are placed in special thermal boxes, and their delivery is carried out using scooters. 
+                    That is why you can always taste delicious, nutritious, fresh and warm pizza straight from the oven.
+                </p>
+            </div>
+        </div>
+    </section>
+
+    <section class="ftco-section ftco-services">
+        <div class="overlay"></div>
+        <div class="container">
+            <div class="row justify-content-center mb-5 pb-3">
+                <div class="col-md-7 heading-section ftco-animate text-center">
+                    <h2 class="mb-4">Our Services</h2>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-md-4 ftco-animate">
+                    <div class="media d-block text-center block-6 services">
+                        <div class="icon d-flex justify-content-center align-items-center mb-5">
+                            <i class="bi bi-hand-thumbs-up style='font-size:28px'"></i>
+                        </div>
+                        <div class="media-body">
+                            <h3 class="heading">Healthy Foods</h3>
+                            <p>Everything from the vegetables to the cheeses is real, organic.</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-4 ftco-animate">
+                    <div class="media d-block text-center block-6 services">
+                        <div class="icon d-flex justify-content-center align-items-center mb-5">
+                            <i class="bi bi-truck" style='font-size:24px'></i>
+                        </div>
+                        <div class="media-body">
+                            <h3 class="heading">Fastest Delivery</h3>
+                            <p>Fast pizza delivery is our trump card and an indicator of our reputation among customers and competitors. If our courier is late - you get a free pizza before your next order.</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-4 ftco-animate">
+                    <div class="media d-block text-center block-6 services">
+                        <div class="icon d-flex justify-content-center align-items-center mb-5"><i class="bi bi-chat-square-heart-fill" style='font-size:24px'></i></div>
+                        <div class="media-body">
+                            <h3 class="heading">Original Recipes</h3>
+                            <p>We cooperate with manufacturers and suppliers, so your pizza is always baked from natural products.</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section class="ftco-section">
+        <div class="container">
+            <div class="row justify-content-center mb-5 pb-3">
+                <div class="col-md-7 heading-section ftco-animate text-center">
+                    <h2 class="mb-4"> Pizza</h2>
+                    <p class="flip"><span class="deg1"></span><span class="deg2"></span><span class="deg3"></span></p>
+                </div>
+            </div>
+        </div>
+        <div class="container-wrap">
+            <div class="row no-gutters d-flex">
+            </div>
+
+            @foreach (var product in Model)
+            {
+                @if(@product.Category.Name == "Pizza")
+                {
+                    <div class="col-sm-6 col-md-6 d-flex ftco-animate">
+                        <div class="services-wrap d-flex">
+                            <img src="@product.ImageUrl" class="card-img-top rounded" />
+                            <div class="text p-4">
+                                <h3>@product.Name</h3>
+                                <p>@product.Description</p>
+                                <p class="price"><span>$@product.Price.ToString("0.00")</span> </p>
+                                <a asp-action="Details" class="ml-2 btn btn-white btn-outline-white" asp-route-productId="@product.Id">
+                                    Details
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                }
+                
+            }
+
+        </div>
+        <section class="ftco-section">
+            <div class="container">
+                <div class="row justify-content-center mb-5 pb-3">
+                    <div class="col-md-7 heading-section ftco-animate text-center">
+                        <h2 class="mb-4"> Burgers</h2>
+                        <p class="flip"><span class="deg1"></span><span class="deg2"></span><span class="deg3"></span></p>
+                    </div>
+                </div>
+            </div>
+            <div class="container-wrap">
+                <div class="row no-gutters d-flex">
+                </div>
+
+                @foreach (var product in Model)
+                {
+                    @if (@product.Category.Name == "Burgers")
+                    {
+                        <div class="col-lg-6 d-flex ftco-animate">
+                            <div class="services-wrap d-flex">
+                                <img src="@product.ImageUrl" class="card-img-top rounded" />
+                                <div class="text p-4">
+                                    <h3>@product.Name</h3>
+                                    <p>@product.Description</p>
+                                    <p class="price"><span>$@product.Price.ToString("0.00")</span> </p>
+                                    <a asp-action="Details" class="ml-2 btn btn-white btn-outline-white" asp-route-productId="@product.Id">
+                                        Details
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                    }
+
+                }
+
+            </div>
+            <section class="ftco-section">
+                <div class="container">
+                    <div class="row justify-content-center mb-5 pb-3">
+                        <div class="col-md-7 heading-section ftco-animate text-center">
+                            <h2 class="mb-4"> Salads</h2>
+                            <p class="flip"><span class="deg1"></span><span class="deg2"></span><span class="deg3"></span></p>
+                        </div>
+                    </div>
+                </div>
+                <div class="container-wrap">
+                    <div class="row no-gutters d-flex">
+                    </div>
+
+                    @foreach (var product in Model)
+                    {
+                        @if (@product.Category.Name == "Salads")
+                        {
+                            <div class="col-lg-5 d-flex ftco-animate">
+                                <div class="services-wrap d-flex">
+                                    <img src="@product.ImageUrl" class="rounded float-left" />
+                                    <div class="text p-3">
+
+                                        <h3>@product.Name</h3>
+                                        <p>@product.Description</p>
+                                        <p class="price"><span>$@product.Price.ToString("0.00")</span> </p>
+                                        <a asp-action="Details" class="ml-2 btn btn-white btn-outline-white" asp-route-productId="@product.Id">
+                                            Details
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+                        }
+
+                    }
+
+                </div>
+                <section class="ftco-section">
+                    <div class="container">
+                        <div class="row justify-content-center mb-5 pb-3">
+                            <div class="col-md-7 heading-section ftco-animate text-center">
+                                <h2 class="mb-4"> Drinks</h2>
+                                <p class="flip"><span class="deg1"></span><span class="deg2"></span><span class="deg3"></span></p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="container-wrap">
+                        <div class="row no-gutters d-flex">
+                        </div>
+
+                        @foreach (var product in Model)
+                        {
+                            @if (@product.Category.Name == "Drinks")
+                            {
+                                <div class="col-lg-6 col-md-6 d-flex ftco-animate">
+                                    <div class="services-wrap d-flex">
+                                        <img src="@product.ImageUrl" class="card-img-top rounded" />
+                                        <div class="text p-4">
+                                            <h3>@product.Name</h3>
+                                            <p>@product.Description</p>
+                                            <p class="price"><span>$@product.Price.ToString("0.00")</span> </p>
+                                            <a asp-action="Details" class="ml-2 btn btn-white btn-outline-white" asp-route-productId="@product.Id">
+                                                Details
+                                            </a>
+                                        </div>
+                                    </div>
+                                </div>
+                            }
+
+                        }
+
+                    </div>
+          
+    </section>
+
+    <section class="ftco-counter ftco-bg-dark img" id="section-counter" style="background-image: url(images/bg_2.jpg);" data-stellar-background-ratio="0.5">
+        <div class="overlay"></div>
+        <div class="container">
+            <div class="row justify-content-center">
+                <div class="col-md-10">
+                    <div class="row">
+                        <div class="col-md-6 col-lg-3 d-flex justify-content-center counter-wrap ftco-animate">
+                            <div class="block-18 text-center">
+                                <div class="text">
+                                        <div class="icon"><span><i class="bi bi-headset"></i></span></div>
+                                    <strong class="number" data-number="100">0</strong>
+                                    <span>Pizza Branches</span>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-6 col-lg-3 d-flex justify-content-center counter-wrap ftco-animate">
+                            <div class="block-18 text-center">
+                                <div class="text">
+                                        <div class="icon"><span><i class="bi bi-award"></i></span></div>
+                                    <strong class="number" data-number="85">0</strong>
+                                    <span>Number of Awards</span>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-6 col-lg-3 d-flex justify-content-center counter-wrap ftco-animate">
+                            <div class="block-18 text-center">
+                                <div class="text">
+                                        <div class="icon"><span ><i class="bi bi-person-hearts"></i></span></div>
+                                    <strong class="number" data-number="10567">0</strong>
+                                    <span>Happy Customer</span>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-6 col-lg-3 d-flex justify-content-center counter-wrap ftco-animate">
+                            <div class="block-18 text-center">
+                                <div class="text">
+                                        <div class="icon"><span><i class="bi bi-person-check"></i></span></div>
+                                    <strong class="number" data-number="900">0</strong>
+                                    <span>Staff</span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- loader -->
+@*    <div id="ftco-loader" class="show fullscreen"><svg class="circular" width="48px" height="48px"><circle class="path-bg" cx="24" cy="24" r="22" fill="none" stroke-width="4" stroke="#eeeeee" /><circle class="path" cx="24" cy="24" r="22" fill="none" stroke-width="4" stroke-miterlimit="10" stroke="#F96D00" /></svg></div>*@
+
+
+    <script src="js/jquery.min.js"></script>
+    <script src="js/jquery-migrate-3.0.1.min.js"></script>
+    <script src="js/popper.min.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+    <script src="js/jquery.easing.1.3.js"></script>
+    <script src="js/jquery.waypoints.min.js"></script>
+    <script src="js/jquery.stellar.min.js"></script>
+    <script src="js/owl.carousel.min.js"></script>
+    <script src="js/jquery.magnific-popup.min.js"></script>
+    <script src="js/aos.js"></script>
+    <script src="js/jquery.animateNumber.min.js"></script>
+    <script src="js/bootstrap-datepicker.js"></script>
+    <script src="js/jquery.timepicker.min.js"></script>
+    <script src="js/scrollax.min.js"></script>
+    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBVWaKrjvy3MaE7SQ74_uJiULgl1JY0H2s&sensor=false"></script>
+    <script src="js/google-map.js"></script>
+    <script src="js/main.js"></script>
+
+</body>
