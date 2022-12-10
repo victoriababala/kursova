@@ -1,0 +1,36 @@
+D:\Education\2 course\kursova\MoonFood\MoonFood_Utility\bin\Debug\net7.0\MoonFood_Utility.deps.json
+D:\Education\2 course\kursova\MoonFood\MoonFood_Utility\bin\Debug\net7.0\MoonFood_Utility.dll
+D:\Education\2 course\kursova\MoonFood\MoonFood_Utility\bin\Debug\net7.0\MoonFood_Utility.pdb
+D:\Education\2 course\kursova\MoonFood\MoonFood_Utility\obj\Debug\net7.0\MoonFood_Utility.csproj.AssemblyReference.cache
+D:\Education\2 course\kursova\MoonFood\MoonFood_Utility\obj\Debug\net7.0\MoonFood_Utility.GeneratedMSBuildEditorConfig.editorconfig
+D:\Education\2 course\kursova\MoonFood\MoonFood_Utility\obj\Debug\net7.0\MoonFood_Utility.AssemblyInfoInputs.cache
+D:\Education\2 course\kursova\MoonFood\MoonFood_Utility\obj\Debug\net7.0\MoonFood_Utility.AssemblyInfo.cs
+D:\Education\2 course\kursova\MoonFood\MoonFood_Utility\obj\Debug\net7.0\MoonFood_Utility.csproj.CoreCompileInputs.cache
+D:\Education\2 course\kursova\MoonFood\MoonFood_Utility\obj\Debug\net7.0\MoonFood_Utility.dll
+D:\Education\2 course\kursova\MoonFood\MoonFood_Utility\obj\Debug\net7.0\refint\MoonFood_Utility.dll
+D:\Education\2 course\kursova\MoonFood\MoonFood_Utility\obj\Debug\net7.0\MoonFood_Utility.pdb
+D:\Education\2 course\kursova\MoonFood\MoonFood_Utility\obj\Debug\net7.0\ref\MoonFood_Utility.dll
+C:\Users\Andrii Berchak\Desktop\MoonFood\MoonFood_Utility\bin\Debug\net7.0\MoonFood_Utility.deps.json
+C:\Users\Andrii Berchak\Desktop\MoonFood\MoonFood_Utility\bin\Debug\net7.0\MoonFood_Utility.dll
+C:\Users\Andrii Berchak\Desktop\MoonFood\MoonFood_Utility\bin\Debug\net7.0\MoonFood_Utility.pdb
+C:\Users\Andrii Berchak\Desktop\MoonFood\MoonFood_Utility\obj\Debug\net7.0\MoonFood_Utility.csproj.AssemblyReference.cache
+C:\Users\Andrii Berchak\Desktop\MoonFood\MoonFood_Utility\obj\Debug\net7.0\MoonFood_Utility.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andrii Berchak\Desktop\MoonFood\MoonFood_Utility\obj\Debug\net7.0\MoonFood_Utility.AssemblyInfoInputs.cache
+C:\Users\Andrii Berchak\Desktop\MoonFood\MoonFood_Utility\obj\Debug\net7.0\MoonFood_Utility.AssemblyInfo.cs
+C:\Users\Andrii Berchak\Desktop\MoonFood\MoonFood_Utility\obj\Debug\net7.0\MoonFood_Utility.csproj.CoreCompileInputs.cache
+C:\Users\Andrii Berchak\Desktop\MoonFood\MoonFood_Utility\obj\Debug\net7.0\MoonFood_Utility.dll
+C:\Users\Andrii Berchak\Desktop\MoonFood\MoonFood_Utility\obj\Debug\net7.0\refint\MoonFood_Utility.dll
+C:\Users\Andrii Berchak\Desktop\MoonFood\MoonFood_Utility\obj\Debug\net7.0\MoonFood_Utility.pdb
+C:\Users\Andrii Berchak\Desktop\MoonFood\MoonFood_Utility\obj\Debug\net7.0\ref\MoonFood_Utility.dll
+C:\Users\Admin\Desktop\MoonFood\MoonFood\MoonFood\MoonFood_Utility\bin\Debug\net7.0\MoonFood_Utility.deps.json
+C:\Users\Admin\Desktop\MoonFood\MoonFood\MoonFood\MoonFood_Utility\bin\Debug\net7.0\MoonFood_Utility.dll
+C:\Users\Admin\Desktop\MoonFood\MoonFood\MoonFood\MoonFood_Utility\bin\Debug\net7.0\MoonFood_Utility.pdb
+C:\Users\Admin\Desktop\MoonFood\MoonFood\MoonFood\MoonFood_Utility\obj\Debug\net7.0\MoonFood_Utility.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\MoonFood\MoonFood\MoonFood\MoonFood_Utility\obj\Debug\net7.0\MoonFood_Utility.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\MoonFood\MoonFood\MoonFood\MoonFood_Utility\obj\Debug\net7.0\MoonFood_Utility.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\MoonFood\MoonFood\MoonFood\MoonFood_Utility\obj\Debug\net7.0\MoonFood_Utility.AssemblyInfo.cs
+C:\Users\Admin\Desktop\MoonFood\MoonFood\MoonFood\MoonFood_Utility\obj\Debug\net7.0\MoonFood_Utility.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\MoonFood\MoonFood\MoonFood\MoonFood_Utility\obj\Debug\net7.0\MoonFood_Utility.dll
+C:\Users\Admin\Desktop\MoonFood\MoonFood\MoonFood\MoonFood_Utility\obj\Debug\net7.0\refint\MoonFood_Utility.dll
+C:\Users\Admin\Desktop\MoonFood\MoonFood\MoonFood\MoonFood_Utility\obj\Debug\net7.0\MoonFood_Utility.pdb
+C:\Users\Admin\Desktop\MoonFood\MoonFood\MoonFood\MoonFood_Utility\obj\Debug\net7.0\ref\MoonFood_Utility.dll
